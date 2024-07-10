@@ -1,16 +1,14 @@
 # isolates
 
-A new Flutter project.
+Flutter Isolates.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Use Isolates in Flutter for Smooth Performance.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Isolates enable you to execute computationally intensive tasks concurrently, preventing them from hindering the main UI thread. This empowers your app to remain responsive while complex calculations run in the background.
+
+
+<img src="https://github.com/azix-khan/isolates-in-flutter/assets/138978130/3753ebfa-ce3e-480c-9909-8fa44da860d2" width="600" alt="Isolates">
